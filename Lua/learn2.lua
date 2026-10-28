@@ -8,7 +8,8 @@ print("print_return:", print_return)
 print()
 
 function Void()
-    print("Void function returns 'nil'")
+    -- function that explicitly returns nothing implicitly returns 'nil'
+    print("returns nothing")
 end
 
 local voo = Void()
