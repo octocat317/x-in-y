@@ -1,5 +1,5 @@
 print("print() function exists\n")
-print("one-line comments start with double hypen -- ")
+print("one-line comments start with double hyphen -- ")
 -- print("one-line comments")
 
 print("one-line comments can be written ...")
